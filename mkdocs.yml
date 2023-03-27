@@ -19,16 +19,16 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_name: My new page for guests
+site_url: https://https://cathwm4n.github.io/mkdocs-material/
+site_author: Cathalina Mantilla
 site_description: >-
-  Write your documentation in Markdown and create a professional static site in
+  Write your documentation in My new page for guests and create a professional static site in
   minutes – searchable, customizable, for all devices
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: Cathwm4n/mkdocs-material
+repo_url: https://github.com/Cathwm4n/mkdocs-material/edit/master/mkdocs.yml
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2023 Martin Donath
